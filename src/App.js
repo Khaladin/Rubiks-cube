@@ -1,4 +1,6 @@
 import React from 'react';
+import $ from 'jquery';
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,14 +9,17 @@ function App() {
 cubey = -38,
 cubez = 0;
 function rotate(variableName, degrees) {
-  console.log(variableName);
+    if (variableName === 'cubey') {
+      cubey += degrees;
+    } else if (variableName === 'cubez') {
+      cubez += degrees;
+    } 
     window[variableName] = window[variableName] + degrees;
     rotCube(cubex, cubey, cubez);
 }
 function rotCube(degx, degy, degz){
     let segs = "rotateX("+degx+"deg) rotateY("+degy+"deg) rotateZ("+degz+"deg) translateX(0) translateY(0) translateZ(0)";
-    console.log(segs);
-    document.getElementById("D3Cube").style.transform = `translate(${segs})`
+    $('#D3Cube').css({"transform":segs});
 }
 function turnRight() {
     rotate("cubey", 90);
@@ -35,19 +40,19 @@ function flipCube() {
         <div id="wrapD3Cube">
           <div id="D3Cube">
             <div id="side1">Words on this side</div>
-            <div id="side2">Words on this side</div>
-            <div id="side3">Words on this side</div>
-            <div id="side4">Words on this side</div>
+            <div id="side2">graph here</div>
+            <div id="side3">cool graphic</div>
+            <div id="side4">Winning slide</div>
             <div id="side5">Words on this side</div>
             <div id="side6">Words on this side</div>
           </div>
         </div>
 
-        <div>
-          <div onClick={() => turnLeft()}>Left</div>
-          <div onClick={() => turnRight()}>Right</div> <br />
-          <div onClick={() => flipCube()}>Flip</div>
-        </div>
+        <p>
+            <a onClick={() => turnLeft()}>Left</a>
+            <a onClick={() => turnRight()}>Right</a> <br />
+            <a onClick={() => flipCube()}>Flip</a>
+        </p>
       </header>
     </div>
   );
