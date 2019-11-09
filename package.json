@@ -5,6 +5,8 @@
   "dependencies": {
     "cross-env": "^6.0.3",
     "jquery": "^3.4.1",
+    "node-sass": "^4.13.0",
+    "prettier": "^1.19.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -12,7 +14,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test:nowatch": "cross-env CI=true react-scripts test",
+    "test:nowatch": "cross-env CI=true react-scripts test --passWithNoTests",
+    "pretty": "Prettier --write --tab-width 2 \"src/**/*.js\"",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -20,7 +23,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run test:nowatch"
+      "pre-commit": "npm run test:nowatch pretty"
     }
   },
   "browserslist": {

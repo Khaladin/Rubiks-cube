@@ -2,11 +2,13 @@ import React from 'react';
 import $ from 'jquery';
 
 import logo from './logo.svg';
-import './App.css';
+
+import './App.scss';
+import './assets/sass/main.scss'
 
 function App() {
   var cubex = -22,    // initial rotation
-cubey = -38,
+cubey = -10,
 cubez = 0;
 function rotate(variableName, degrees) {
     if (variableName === 'cubey') {
