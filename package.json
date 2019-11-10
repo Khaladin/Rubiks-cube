@@ -2,29 +2,38 @@
   "name": "rubiks-cube",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:nowatch": "react-scripts test --watchAll=false",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
-    "cross-env": "^6.0.3",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.0",
-    "prettier": "^1.19.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test:nowatch": "cross-env CI=true react-scripts test --passWithNoTests",
-    "pretty": "Prettier --write --tab-width 2 \"src/**/*.js\"",
-    "eject": "react-scripts eject"
+  "devDependencies": {
+    "husky": "^3.0.9",
+    "lint-staged": "^9.4.2",
+    "node-sass": "^4.13.0",
+    "prettier": "^1.19.1"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run test:nowatch pretty"
+      "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,css,scss,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "browserslist": {
     "production": [
@@ -37,8 +46,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "husky": "^3.0.9"
   }
 }
