@@ -1,19 +1,19 @@
-import React from "react";
-import $ from "jquery";
+import React from 'react';
+import $ from 'jquery';
 
-import logo from "./logo.svg";
+import logo from './logo.svg';
 
-import "./App.scss";
-import "./assets/sass/main.scss";
+import './App.scss';
+import './assets/sass/main.scss';
 
 function App() {
   var cubex = -22, // initial rotation
     cubey = -10,
     cubez = 0;
   function rotate(variableName, degrees) {
-    if (variableName === "cubey") {
+    if (variableName === 'cubey') {
       cubey += degrees;
-    } else if (variableName === "cubez") {
+    } else if (variableName === 'cubez') {
       cubez += degrees;
     }
     window[variableName] = window[variableName] + degrees;
@@ -21,23 +21,23 @@ function App() {
   }
   function rotCube(degx, degy, degz) {
     let segs =
-      "rotateX(" +
+      'rotateX(' +
       degx +
-      "deg) rotateY(" +
+      'deg) rotateY(' +
       degy +
-      "deg) rotateZ(" +
+      'deg) rotateZ(' +
       degz +
-      "deg) translateX(0) translateY(0) translateZ(0)";
-    $("#D3Cube").css({ transform: segs });
+      'deg) translateX(0) translateY(0) translateZ(0)';
+    $('#D3Cube').css({ transform: segs });
   }
   function turnRight() {
-    rotate("cubey", 90);
+    rotate('cubey', 90);
   }
   function turnLeft() {
-    rotate("cubey", -90);
+    rotate('cubey', -90);
   }
   function flipCube() {
-    rotate("cubez", -180);
+    rotate('cubez', -180);
   }
   return (
     <div className="App">

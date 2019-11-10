@@ -26,12 +26,12 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged && npm run test:nowatch"
     }
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,css,scss,json,md}": [
-      "prettier --write",
+      "prettier --single-quote --write",
       "git add"
     ]
   },
