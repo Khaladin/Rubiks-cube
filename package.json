@@ -16,10 +16,12 @@
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
+    "csv-parse": "^4.8.1",
     "husky": "^3.0.9",
     "lint-staged": "^9.4.2",
     "node-sass": "^4.13.0",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "stream-transform": "^2.0.1"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,7 +32,7 @@
     }
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx,css,scss,json,md}": [
+    "src/**/*.{js,jsx,ts,tsx,css,scss,md}": [
       "prettier --single-quote --write",
       "git add"
     ]

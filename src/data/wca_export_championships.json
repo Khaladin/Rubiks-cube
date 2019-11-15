@@ -1,0 +1,2270 @@
+﻿[
+  {
+    "id": "328",
+    "competition_id": "ACARO2016",
+    "championship_type": "HK"
+  },
+  {
+    "id": "170",
+    "competition_id": "AFSwedishCubeOpen2016",
+    "championship_type": "SE"
+  },
+  {
+    "id": "326",
+    "competition_id": "AlbanianOpen2018",
+    "championship_type": "AL"
+  },
+  {
+    "id": "414",
+    "competition_id": "AlbanianOpen2019",
+    "championship_type": "AL"
+  },
+  {
+    "id": "296",
+    "competition_id": "Andorra2017",
+    "championship_type": "AD"
+  },
+  {
+    "id": "487",
+    "competition_id": "Andorra2019",
+    "championship_type": "AD"
+  },
+  {
+    "id": "426",
+    "competition_id": "ArnoldClassicAfrica2019",
+    "championship_type": "ZA"
+  },
+  {
+    "id": "10",
+    "competition_id": "AsianChampionship2010",
+    "championship_type": "_Asia"
+  },
+  {
+    "id": "11",
+    "competition_id": "AsianChampionship2012",
+    "championship_type": "_Asia"
+  },
+  {
+    "id": "329",
+    "competition_id": "AsianChampionship2012",
+    "championship_type": "HK"
+  },
+  {
+    "id": "12",
+    "competition_id": "AsianChampionship2014",
+    "championship_type": "_Asia"
+  },
+  {
+    "id": "98",
+    "competition_id": "AsianChampionship2014",
+    "championship_type": "JP"
+  },
+  {
+    "id": "13",
+    "competition_id": "AsianChampionship2016",
+    "championship_type": "_Asia"
+  },
+  {
+    "id": "37",
+    "competition_id": "AsianChampionship2016",
+    "championship_type": "greater_china"
+  },
+  {
+    "id": "354",
+    "competition_id": "AsianChampionship2018",
+    "championship_type": "_Asia"
+  },
+  {
+    "id": "21",
+    "competition_id": "AustralianNationals2010",
+    "championship_type": "AU"
+  },
+  {
+    "id": "22",
+    "competition_id": "AustralianNationals2011",
+    "championship_type": "AU"
+  },
+  {
+    "id": "23",
+    "competition_id": "AustralianNationals2012",
+    "championship_type": "AU"
+  },
+  {
+    "id": "24",
+    "competition_id": "AustralianNationals2013",
+    "championship_type": "AU"
+  },
+  {
+    "id": "25",
+    "competition_id": "AustralianNationals2014",
+    "championship_type": "AU"
+  },
+  {
+    "id": "26",
+    "competition_id": "AustralianNationals2015",
+    "championship_type": "AU"
+  },
+  {
+    "id": "27",
+    "competition_id": "AustralianNationals2016",
+    "championship_type": "AU"
+  },
+  {
+    "id": "28",
+    "competition_id": "AustralianNationals2017",
+    "championship_type": "AU"
+  },
+  {
+    "id": "389",
+    "competition_id": "AustralianNationals2018",
+    "championship_type": "AU"
+  },
+  {
+    "id": "324",
+    "competition_id": "BanjaLukaOpen2017",
+    "championship_type": "BA"
+  },
+  {
+    "id": "350",
+    "competition_id": "BanjaLukaOpen2018",
+    "championship_type": "BA"
+  },
+  {
+    "id": "442",
+    "competition_id": "BelarusNationals2019",
+    "championship_type": "BY"
+  },
+  {
+    "id": "322",
+    "competition_id": "BIHOpen2012",
+    "championship_type": "BA"
+  },
+  {
+    "id": "29",
+    "competition_id": "BoliviaNationals2016",
+    "championship_type": "BO"
+  },
+  {
+    "id": "367",
+    "competition_id": "BoliviaNationals2018",
+    "championship_type": "BO"
+  },
+  {
+    "id": "490",
+    "competition_id": "BoliviaNationals2019",
+    "championship_type": "BO"
+  },
+  {
+    "id": "323",
+    "competition_id": "BosniaandHerzegovinaOpen2016",
+    "championship_type": "BA"
+  },
+  {
+    "id": "30",
+    "competition_id": "Brasileiro2013",
+    "championship_type": "BR"
+  },
+  {
+    "id": "34",
+    "competition_id": "Brasileiro2016",
+    "championship_type": "BR"
+  },
+  {
+    "id": "35",
+    "competition_id": "Brasileiro2017",
+    "championship_type": "BR"
+  },
+  {
+    "id": "341",
+    "competition_id": "Brasileiro2018",
+    "championship_type": "BR"
+  },
+  {
+    "id": "32",
+    "competition_id": "BrasileiroInverno2014",
+    "championship_type": "BR"
+  },
+  {
+    "id": "473",
+    "competition_id": "CambodiaCubingChampionship2019",
+    "championship_type": "KH"
+  },
+  {
+    "id": "438",
+    "competition_id": "CampeonatoBrasileiro2019",
+    "championship_type": "BR"
+  },
+  {
+    "id": "136",
+    "competition_id": "CampeonatodePortugal2015",
+    "championship_type": "PT"
+  },
+  {
+    "id": "214",
+    "competition_id": "CampeonatoNacionalPerubik2017",
+    "championship_type": "PE"
+  },
+  {
+    "id": "215",
+    "competition_id": "CampeonatoSudamericano2013",
+    "championship_type": "_South America"
+  },
+  {
+    "id": "440",
+    "competition_id": "CanadianChampionship2019",
+    "championship_type": "CA"
+  },
+  {
+    "id": "265",
+    "competition_id": "CanadianOpen2007",
+    "championship_type": "CA"
+  },
+  {
+    "id": "264",
+    "competition_id": "CanadianOpen2009",
+    "championship_type": "CA"
+  },
+  {
+    "id": "263",
+    "competition_id": "CanadianOpen2011",
+    "championship_type": "CA"
+  },
+  {
+    "id": "262",
+    "competition_id": "CanadianOpen2013",
+    "championship_type": "CA"
+  },
+  {
+    "id": "261",
+    "competition_id": "CanadianOpen2015",
+    "championship_type": "CA"
+  },
+  {
+    "id": "260",
+    "competition_id": "CanadianOpen2017",
+    "championship_type": "CA"
+  },
+  {
+    "id": "36",
+    "competition_id": "ChinaChampionship2015",
+    "championship_type": "greater_china"
+  },
+  {
+    "id": "38",
+    "competition_id": "ChinaChampionship2017",
+    "championship_type": "greater_china"
+  },
+  {
+    "id": "365",
+    "competition_id": "ChinaChampionship2018",
+    "championship_type": "greater_china"
+  },
+  {
+    "id": "433",
+    "competition_id": "ChinaChampionship2019",
+    "championship_type": "greater_china"
+  },
+  {
+    "id": "416",
+    "competition_id": "ColombiaNationals2012",
+    "championship_type": "CO"
+  },
+  {
+    "id": "417",
+    "competition_id": "ColombiaNationals2014",
+    "championship_type": "CO"
+  },
+  {
+    "id": "374",
+    "competition_id": "ColombiaNationals2018",
+    "championship_type": "CO"
+  },
+  {
+    "id": "359",
+    "competition_id": "CostaRicaNationals2018",
+    "championship_type": "CR"
+  },
+  {
+    "id": "451",
+    "competition_id": "CroatianNationals2019",
+    "championship_type": "HR"
+  },
+  {
+    "id": "313",
+    "competition_id": "CroatianOpen2011",
+    "championship_type": "HR"
+  },
+  {
+    "id": "314",
+    "competition_id": "CroatianOpen2014",
+    "championship_type": "HR"
+  },
+  {
+    "id": "315",
+    "competition_id": "CroatianOpen2015",
+    "championship_type": "HR"
+  },
+  {
+    "id": "316",
+    "competition_id": "CroatianOpen2016",
+    "championship_type": "HR"
+  },
+  {
+    "id": "317",
+    "competition_id": "CroatianOpen2017",
+    "championship_type": "HR"
+  },
+  {
+    "id": "385",
+    "competition_id": "CroatianOpen2018",
+    "championship_type": "HR"
+  },
+  {
+    "id": "478",
+    "competition_id": "CubingKazakhstanNationals2019",
+    "championship_type": "KZ"
+  },
+  {
+    "id": "211",
+    "competition_id": "CubingUSANationals2017",
+    "championship_type": "US"
+  },
+  {
+    "id": "289",
+    "competition_id": "CubingUSANationals2018",
+    "championship_type": "US"
+  },
+  {
+    "id": "409",
+    "competition_id": "CubingUSANationals2019",
+    "championship_type": "US"
+  },
+  {
+    "id": "242",
+    "competition_id": "DanishOpen2008",
+    "championship_type": "DK"
+  },
+  {
+    "id": "243",
+    "competition_id": "DanishOpen2009",
+    "championship_type": "DK"
+  },
+  {
+    "id": "244",
+    "competition_id": "DanishOpen2010",
+    "championship_type": "DK"
+  },
+  {
+    "id": "245",
+    "competition_id": "DanishOpen2011",
+    "championship_type": "DK"
+  },
+  {
+    "id": "246",
+    "competition_id": "DanishOpen2012",
+    "championship_type": "DK"
+  },
+  {
+    "id": "247",
+    "competition_id": "DanishOpen2013",
+    "championship_type": "DK"
+  },
+  {
+    "id": "418",
+    "competition_id": "DanishOpen2014",
+    "championship_type": "DK"
+  },
+  {
+    "id": "419",
+    "competition_id": "DanishOpen2015",
+    "championship_type": "DK"
+  },
+  {
+    "id": "248",
+    "competition_id": "DanishOpen2016",
+    "championship_type": "DK"
+  },
+  {
+    "id": "249",
+    "competition_id": "DanishOpen2017",
+    "championship_type": "DK"
+  },
+  {
+    "id": "363",
+    "competition_id": "DanishOpen2018",
+    "championship_type": "DK"
+  },
+  {
+    "id": "439",
+    "competition_id": "DanishOpen2019",
+    "championship_type": "DK"
+  },
+  {
+    "id": "106",
+    "competition_id": "DutchNationals2010",
+    "championship_type": "NL"
+  },
+  {
+    "id": "107",
+    "competition_id": "DutchNationals2011",
+    "championship_type": "NL"
+  },
+  {
+    "id": "108",
+    "competition_id": "DutchNationals2014",
+    "championship_type": "NL"
+  },
+  {
+    "id": "109",
+    "competition_id": "DutchNationals2015",
+    "championship_type": "NL"
+  },
+  {
+    "id": "110",
+    "competition_id": "DutchNationals2016",
+    "championship_type": "NL"
+  },
+  {
+    "id": "111",
+    "competition_id": "DutchNationals2017",
+    "championship_type": "NL"
+  },
+  {
+    "id": "379",
+    "competition_id": "DutchNationals2018",
+    "championship_type": "NL"
+  },
+  {
+    "id": "458",
+    "competition_id": "DutchNationals2019",
+    "championship_type": "NL"
+  },
+  {
+    "id": "337",
+    "competition_id": "EcuadorNationals2018",
+    "championship_type": "EC"
+  },
+  {
+    "id": "459",
+    "competition_id": "EcuadorNationals2019",
+    "championship_type": "EC"
+  },
+  {
+    "id": "456",
+    "competition_id": "EgyptianChampionship2019",
+    "championship_type": "EG"
+  },
+  {
+    "id": "218",
+    "competition_id": "EstonianOpen2009",
+    "championship_type": "EE"
+  },
+  {
+    "id": "219",
+    "competition_id": "EstonianOpen2010",
+    "championship_type": "EE"
+  },
+  {
+    "id": "220",
+    "competition_id": "EstonianOpen2011",
+    "championship_type": "EE"
+  },
+  {
+    "id": "221",
+    "competition_id": "EstonianOpen2012",
+    "championship_type": "EE"
+  },
+  {
+    "id": "222",
+    "competition_id": "EstonianOpen2013",
+    "championship_type": "EE"
+  },
+  {
+    "id": "223",
+    "competition_id": "EstonianOpen2014",
+    "championship_type": "EE"
+  },
+  {
+    "id": "224",
+    "competition_id": "EstonianOpen2015",
+    "championship_type": "EE"
+  },
+  {
+    "id": "225",
+    "competition_id": "EstonianOpen2016",
+    "championship_type": "EE"
+  },
+  {
+    "id": "226",
+    "competition_id": "EstonianOpen2017",
+    "championship_type": "EE"
+  },
+  {
+    "id": "383",
+    "competition_id": "EstonianOpen2018",
+    "championship_type": "EE"
+  },
+  {
+    "id": "462",
+    "competition_id": "EstonianOpen2019",
+    "championship_type": "EE"
+  },
+  {
+    "id": "14",
+    "competition_id": "Euro2004",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "15",
+    "competition_id": "Euro2006",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "16",
+    "competition_id": "Euro2008",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "17",
+    "competition_id": "Euro2010",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "18",
+    "competition_id": "Euro2012",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "19",
+    "competition_id": "Euro2014",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "20",
+    "competition_id": "Euro2016",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "293",
+    "competition_id": "Euro2018",
+    "championship_type": "_Europe"
+  },
+  {
+    "id": "39",
+    "competition_id": "FinnishChampionship2014",
+    "championship_type": "FI"
+  },
+  {
+    "id": "40",
+    "competition_id": "FinnishChampionship2015",
+    "championship_type": "FI"
+  },
+  {
+    "id": "41",
+    "competition_id": "FinnishChampionship2016",
+    "championship_type": "FI"
+  },
+  {
+    "id": "273",
+    "competition_id": "FinnishChampionship2017",
+    "championship_type": "FI"
+  },
+  {
+    "id": "353",
+    "competition_id": "FinnishChampionship2018",
+    "championship_type": "FI"
+  },
+  {
+    "id": "485",
+    "competition_id": "FinnishChampionship2019",
+    "championship_type": "FI"
+  },
+  {
+    "id": "266",
+    "competition_id": "FinnishOpen2007",
+    "championship_type": "FI"
+  },
+  {
+    "id": "267",
+    "competition_id": "FinnishOpen2008",
+    "championship_type": "FI"
+  },
+  {
+    "id": "268",
+    "competition_id": "FinnishOpen2009",
+    "championship_type": "FI"
+  },
+  {
+    "id": "269",
+    "competition_id": "FinnishOpen2010",
+    "championship_type": "FI"
+  },
+  {
+    "id": "270",
+    "competition_id": "FinnishOpen2011",
+    "championship_type": "FI"
+  },
+  {
+    "id": "271",
+    "competition_id": "FinnishOpen2012",
+    "championship_type": "FI"
+  },
+  {
+    "id": "272",
+    "competition_id": "FinnishOpen2013",
+    "championship_type": "FI"
+  },
+  {
+    "id": "42",
+    "competition_id": "France2004",
+    "championship_type": "FR"
+  },
+  {
+    "id": "43",
+    "competition_id": "France2005",
+    "championship_type": "FR"
+  },
+  {
+    "id": "44",
+    "competition_id": "France2006",
+    "championship_type": "FR"
+  },
+  {
+    "id": "45",
+    "competition_id": "France2007",
+    "championship_type": "FR"
+  },
+  {
+    "id": "46",
+    "competition_id": "France2008",
+    "championship_type": "FR"
+  },
+  {
+    "id": "47",
+    "competition_id": "France2009",
+    "championship_type": "FR"
+  },
+  {
+    "id": "48",
+    "competition_id": "France2010",
+    "championship_type": "FR"
+  },
+  {
+    "id": "49",
+    "competition_id": "France2011",
+    "championship_type": "FR"
+  },
+  {
+    "id": "50",
+    "competition_id": "France2012",
+    "championship_type": "FR"
+  },
+  {
+    "id": "51",
+    "competition_id": "France2013",
+    "championship_type": "FR"
+  },
+  {
+    "id": "53",
+    "competition_id": "France2015",
+    "championship_type": "FR"
+  },
+  {
+    "id": "54",
+    "competition_id": "France2016",
+    "championship_type": "FR"
+  },
+  {
+    "id": "55",
+    "competition_id": "France2017",
+    "championship_type": "FR"
+  },
+  {
+    "id": "291",
+    "competition_id": "France2018",
+    "championship_type": "FR"
+  },
+  {
+    "id": "52",
+    "competition_id": "FrenchChampionship2014",
+    "championship_type": "FR"
+  },
+  {
+    "id": "403",
+    "competition_id": "FrenchChampionship2019",
+    "championship_type": "FR"
+  },
+  {
+    "id": "62",
+    "competition_id": "GermanNationals2011",
+    "championship_type": "DE"
+  },
+  {
+    "id": "63",
+    "competition_id": "GermanNationals2012",
+    "championship_type": "DE"
+  },
+  {
+    "id": "64",
+    "competition_id": "GermanNationals2013",
+    "championship_type": "DE"
+  },
+  {
+    "id": "65",
+    "competition_id": "GermanNationals2014",
+    "championship_type": "DE"
+  },
+  {
+    "id": "66",
+    "competition_id": "GermanNationals2015",
+    "championship_type": "DE"
+  },
+  {
+    "id": "67",
+    "competition_id": "GermanNationals2016",
+    "championship_type": "DE"
+  },
+  {
+    "id": "68",
+    "competition_id": "GermanNationals2017",
+    "championship_type": "DE"
+  },
+  {
+    "id": "340",
+    "competition_id": "GermanNationals2018",
+    "championship_type": "DE"
+  },
+  {
+    "id": "432",
+    "competition_id": "GermanNationals2019",
+    "championship_type": "DE"
+  },
+  {
+    "id": "56",
+    "competition_id": "Germany2005",
+    "championship_type": "DE"
+  },
+  {
+    "id": "57",
+    "competition_id": "Germany2006",
+    "championship_type": "DE"
+  },
+  {
+    "id": "58",
+    "competition_id": "Germany2007",
+    "championship_type": "DE"
+  },
+  {
+    "id": "59",
+    "competition_id": "Germany2008",
+    "championship_type": "DE"
+  },
+  {
+    "id": "60",
+    "competition_id": "Germany2009",
+    "championship_type": "DE"
+  },
+  {
+    "id": "61",
+    "competition_id": "Germany2010",
+    "championship_type": "DE"
+  },
+  {
+    "id": "332",
+    "competition_id": "HongKongOpen2008",
+    "championship_type": "HK"
+  },
+  {
+    "id": "331",
+    "competition_id": "HongKongOpen2009",
+    "championship_type": "HK"
+  },
+  {
+    "id": "330",
+    "competition_id": "HongKongOpen2010",
+    "championship_type": "HK"
+  },
+  {
+    "id": "298",
+    "competition_id": "HungarianOpen2008",
+    "championship_type": "HU"
+  },
+  {
+    "id": "299",
+    "competition_id": "HungarianOpen2009",
+    "championship_type": "HU"
+  },
+  {
+    "id": "300",
+    "competition_id": "HungarianOpen2010",
+    "championship_type": "HU"
+  },
+  {
+    "id": "301",
+    "competition_id": "HungarianOpen2011",
+    "championship_type": "HU"
+  },
+  {
+    "id": "302",
+    "competition_id": "HungarianOpen2012",
+    "championship_type": "HU"
+  },
+  {
+    "id": "303",
+    "competition_id": "HungarianOpen2013",
+    "championship_type": "HU"
+  },
+  {
+    "id": "304",
+    "competition_id": "HungarianOpen2014",
+    "championship_type": "HU"
+  },
+  {
+    "id": "305",
+    "competition_id": "HungarianOpen2015",
+    "championship_type": "HU"
+  },
+  {
+    "id": "306",
+    "competition_id": "HungarianOpen2016",
+    "championship_type": "HU"
+  },
+  {
+    "id": "307",
+    "competition_id": "HungarianOpen2017",
+    "championship_type": "HU"
+  },
+  {
+    "id": "384",
+    "competition_id": "HungarianOpen2018",
+    "championship_type": "HU"
+  },
+  {
+    "id": "465",
+    "competition_id": "HungarianOpen2019",
+    "championship_type": "HU"
+  },
+  {
+    "id": "69",
+    "competition_id": "Hungary2005",
+    "championship_type": "HU"
+  },
+  {
+    "id": "461",
+    "competition_id": "IcelandicNationals2019",
+    "championship_type": "IS"
+  },
+  {
+    "id": "339",
+    "competition_id": "IcelandNationals2018",
+    "championship_type": "IS"
+  },
+  {
+    "id": "72",
+    "competition_id": "IndianNationals2014",
+    "championship_type": "IN"
+  },
+  {
+    "id": "73",
+    "competition_id": "IndianNationals2015",
+    "championship_type": "IN"
+  },
+  {
+    "id": "74",
+    "competition_id": "IndianNationals2016",
+    "championship_type": "IN"
+  },
+  {
+    "id": "75",
+    "competition_id": "IndianNationals2017",
+    "championship_type": "IN"
+  },
+  {
+    "id": "352",
+    "competition_id": "IndianNationals2018",
+    "championship_type": "IN"
+  },
+  {
+    "id": "411",
+    "competition_id": "IndianNationals2019",
+    "championship_type": "IN"
+  },
+  {
+    "id": "76",
+    "competition_id": "IndonesianChampionship2010",
+    "championship_type": "ID"
+  },
+  {
+    "id": "77",
+    "competition_id": "IndonesianChampionship2012",
+    "championship_type": "ID"
+  },
+  {
+    "id": "78",
+    "competition_id": "IndonesianChampionship2016",
+    "championship_type": "ID"
+  },
+  {
+    "id": "79",
+    "competition_id": "IndonesianChampionship2017",
+    "championship_type": "ID"
+  },
+  {
+    "id": "360",
+    "competition_id": "IndonesianChampionship2018",
+    "championship_type": "ID"
+  },
+  {
+    "id": "452",
+    "competition_id": "IndonesianChampionship2019",
+    "championship_type": "ID"
+  },
+  {
+    "id": "231",
+    "competition_id": "IndonesianOpen2009",
+    "championship_type": "ID"
+  },
+  {
+    "id": "232",
+    "competition_id": "IndonesianOpen2011",
+    "championship_type": "ID"
+  },
+  {
+    "id": "420",
+    "competition_id": "IranNationals2016",
+    "championship_type": "IR"
+  },
+  {
+    "id": "80",
+    "competition_id": "IrishChampionship2015",
+    "championship_type": "IE"
+  },
+  {
+    "id": "81",
+    "competition_id": "IrishChampionship2016",
+    "championship_type": "IE"
+  },
+  {
+    "id": "82",
+    "competition_id": "IrishChampionship2017",
+    "championship_type": "IE"
+  },
+  {
+    "id": "345",
+    "competition_id": "IrishChampionship2018",
+    "championship_type": "IE"
+  },
+  {
+    "id": "449",
+    "competition_id": "IrishChampionship2019",
+    "championship_type": "IE"
+  },
+  {
+    "id": "369",
+    "competition_id": "Israel2011",
+    "championship_type": "IL"
+  },
+  {
+    "id": "370",
+    "competition_id": "IsraelChampionship2014",
+    "championship_type": "IL"
+  },
+  {
+    "id": "371",
+    "competition_id": "IsraelChampionship2015",
+    "championship_type": "IL"
+  },
+  {
+    "id": "372",
+    "competition_id": "IsraelChampionship2016",
+    "championship_type": "IL"
+  },
+  {
+    "id": "373",
+    "competition_id": "IsraelChampionship2017",
+    "championship_type": "IL"
+  },
+  {
+    "id": "435",
+    "competition_id": "IsraelChampionship2019",
+    "championship_type": "IL"
+  },
+  {
+    "id": "368",
+    "competition_id": "IsraelOpen2010",
+    "championship_type": "IL"
+  },
+  {
+    "id": "83",
+    "competition_id": "ItalianChampionship2010",
+    "championship_type": "IT"
+  },
+  {
+    "id": "84",
+    "competition_id": "ItalianChampionship2011",
+    "championship_type": "IT"
+  },
+  {
+    "id": "85",
+    "competition_id": "ItalianChampionship2012",
+    "championship_type": "IT"
+  },
+  {
+    "id": "86",
+    "competition_id": "ItalianChampionship2013",
+    "championship_type": "IT"
+  },
+  {
+    "id": "87",
+    "competition_id": "ItalianChampionship2014",
+    "championship_type": "IT"
+  },
+  {
+    "id": "88",
+    "competition_id": "ItalianChampionship2015",
+    "championship_type": "IT"
+  },
+  {
+    "id": "89",
+    "competition_id": "ItalianChampionship2016",
+    "championship_type": "IT"
+  },
+  {
+    "id": "90",
+    "competition_id": "ItalianChampionship2017",
+    "championship_type": "IT"
+  },
+  {
+    "id": "377",
+    "competition_id": "ItalianChampionship2018",
+    "championship_type": "IT"
+  },
+  {
+    "id": "444",
+    "competition_id": "ItalianChampionship2019",
+    "championship_type": "IT"
+  },
+  {
+    "id": "236",
+    "competition_id": "ItalianOpen2007",
+    "championship_type": "IT"
+  },
+  {
+    "id": "237",
+    "competition_id": "ItalianOpen2008",
+    "championship_type": "IT"
+  },
+  {
+    "id": "238",
+    "competition_id": "ItalianOpen2009",
+    "championship_type": "IT"
+  },
+  {
+    "id": "281",
+    "competition_id": "Japan2005",
+    "championship_type": "JP"
+  },
+  {
+    "id": "282",
+    "competition_id": "Japan2006",
+    "championship_type": "JP"
+  },
+  {
+    "id": "406",
+    "competition_id": "JapanChampionship2018",
+    "championship_type": "JP"
+  },
+  {
+    "id": "483",
+    "competition_id": "JapanChampionship2019",
+    "championship_type": "JP"
+  },
+  {
+    "id": "91",
+    "competition_id": "JapanOpen2007",
+    "championship_type": "JP"
+  },
+  {
+    "id": "92",
+    "competition_id": "JapanOpen2008",
+    "championship_type": "JP"
+  },
+  {
+    "id": "93",
+    "competition_id": "JapanOpen2009",
+    "championship_type": "JP"
+  },
+  {
+    "id": "94",
+    "competition_id": "JapanOpen2010",
+    "championship_type": "JP"
+  },
+  {
+    "id": "95",
+    "competition_id": "JapanOpen2011",
+    "championship_type": "JP"
+  },
+  {
+    "id": "96",
+    "competition_id": "JapanOpen2012",
+    "championship_type": "JP"
+  },
+  {
+    "id": "97",
+    "competition_id": "JapanOpen2013",
+    "championship_type": "JP"
+  },
+  {
+    "id": "99",
+    "competition_id": "JapanOpen2015",
+    "championship_type": "JP"
+  },
+  {
+    "id": "100",
+    "competition_id": "JapanOpen2016",
+    "championship_type": "JP"
+  },
+  {
+    "id": "280",
+    "competition_id": "JapanOpen2017",
+    "championship_type": "JP"
+  },
+  {
+    "id": "390",
+    "competition_id": "KazakhstanNationals2018",
+    "championship_type": "KZ"
+  },
+  {
+    "id": "279",
+    "competition_id": "KazakhstanOpen2017",
+    "championship_type": "KZ"
+  },
+  {
+    "id": "137",
+    "competition_id": "Korea2006",
+    "championship_type": "KR"
+  },
+  {
+    "id": "217",
+    "competition_id": "Korea2009",
+    "championship_type": "KR"
+  },
+  {
+    "id": "216",
+    "competition_id": "Korea2010",
+    "championship_type": "KR"
+  },
+  {
+    "id": "138",
+    "competition_id": "KoreanChampionship2011",
+    "championship_type": "KR"
+  },
+  {
+    "id": "139",
+    "competition_id": "KoreanChampionship2016",
+    "championship_type": "KR"
+  },
+  {
+    "id": "140",
+    "competition_id": "KoreanChampionship2017",
+    "championship_type": "KR"
+  },
+  {
+    "id": "366",
+    "competition_id": "KoreanChampionship2018",
+    "championship_type": "KR"
+  },
+  {
+    "id": "464",
+    "competition_id": "KoreanChampionship2019",
+    "championship_type": "KR"
+  },
+  {
+    "id": "446",
+    "competition_id": "KyrgyzstanOpen2019",
+    "championship_type": "KG"
+  },
+  {
+    "id": "479",
+    "competition_id": "MacedonianNationals2019",
+    "championship_type": "MK"
+  },
+  {
+    "id": "436",
+    "competition_id": "MadagascarCubingOpen2019",
+    "championship_type": "MG"
+  },
+  {
+    "id": "394",
+    "competition_id": "MalaysiaCubeChampionship2018",
+    "championship_type": "MY"
+  },
+  {
+    "id": "470",
+    "competition_id": "MalaysiaCubeChampionship2019",
+    "championship_type": "MY"
+  },
+  {
+    "id": "287",
+    "competition_id": "MalaysianCubeChampionship2017",
+    "championship_type": "MY"
+  },
+  {
+    "id": "474",
+    "competition_id": "MaltaOpen2019",
+    "championship_type": "MT"
+  },
+  {
+    "id": "361",
+    "competition_id": "MexicanChampionship2018",
+    "championship_type": "MX"
+  },
+  {
+    "id": "475",
+    "competition_id": "MoldovaOpen2020",
+    "championship_type": "MD"
+  },
+  {
+    "id": "413",
+    "competition_id": "MongoliaChampionship2019",
+    "championship_type": "MN"
+  },
+  {
+    "id": "453",
+    "competition_id": "MontenegroNationals2019",
+    "championship_type": "ME"
+  },
+  {
+    "id": "325",
+    "competition_id": "MontenegroOpen2017",
+    "championship_type": "ME"
+  },
+  {
+    "id": "402",
+    "competition_id": "NacionalesArgentinas2018",
+    "championship_type": "AR"
+  },
+  {
+    "id": "469",
+    "competition_id": "NacionalesArgentinas2019",
+    "championship_type": "AR"
+  },
+  {
+    "id": "393",
+    "competition_id": "NacionalesElSalvador2018",
+    "championship_type": "SV"
+  },
+  {
+    "id": "484",
+    "competition_id": "NacionalesElSalvador2019",
+    "championship_type": "SV"
+  },
+  {
+    "id": "284",
+    "competition_id": "NacionalesGuatemala2018",
+    "championship_type": "GT"
+  },
+  {
+    "id": "447",
+    "competition_id": "NacionalesGuatemala2019",
+    "championship_type": "GT"
+  },
+  {
+    "id": "448",
+    "competition_id": "NacionalesMedellinExplora2019",
+    "championship_type": "CO"
+  },
+  {
+    "id": "276",
+    "competition_id": "NacionalesUruguayasUCHI2017",
+    "championship_type": "UY"
+  },
+  {
+    "id": "310",
+    "competition_id": "NacionalesUruguayasUCHI2018",
+    "championship_type": "UY"
+  },
+  {
+    "id": "445",
+    "competition_id": "NacionalesUruguayo2019",
+    "championship_type": "UY"
+  },
+  {
+    "id": "212",
+    "competition_id": "NacionalPerubik2013",
+    "championship_type": "PE"
+  },
+  {
+    "id": "213",
+    "competition_id": "NacionalPerubik2016",
+    "championship_type": "PE"
+  },
+  {
+    "id": "437",
+    "competition_id": "NepaliNationals2019",
+    "championship_type": "NP"
+  },
+  {
+    "id": "295",
+    "competition_id": "NepalOpen2016",
+    "championship_type": "NP"
+  },
+  {
+    "id": "294",
+    "competition_id": "NepalOpen2017",
+    "championship_type": "NP"
+  },
+  {
+    "id": "398",
+    "competition_id": "NepalOpen2018",
+    "championship_type": "NP"
+  },
+  {
+    "id": "101",
+    "competition_id": "Netherlands2005",
+    "championship_type": "NL"
+  },
+  {
+    "id": "102",
+    "competition_id": "Netherlands2006",
+    "championship_type": "NL"
+  },
+  {
+    "id": "103",
+    "competition_id": "Netherlands2007",
+    "championship_type": "NL"
+  },
+  {
+    "id": "104",
+    "competition_id": "Netherlands2008",
+    "championship_type": "NL"
+  },
+  {
+    "id": "105",
+    "competition_id": "Netherlands2009",
+    "championship_type": "NL"
+  },
+  {
+    "id": "113",
+    "competition_id": "NewZealand2010",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "112",
+    "competition_id": "NewZealandChamps2009",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "114",
+    "competition_id": "NewZealandNationals2012",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "115",
+    "competition_id": "NewZealandNationals2013",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "116",
+    "competition_id": "NewZealandNationals2014",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "117",
+    "competition_id": "NewZealandNationals2015",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "118",
+    "competition_id": "NewZealandNationals2016",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "338",
+    "competition_id": "NewZealandNationals2017",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "400",
+    "competition_id": "NewZealandNationals2018",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "476",
+    "competition_id": "NewZealandNationals2019",
+    "championship_type": "NZ"
+  },
+  {
+    "id": "120",
+    "competition_id": "Norway2013",
+    "championship_type": "NO"
+  },
+  {
+    "id": "119",
+    "competition_id": "NorwegianChampionship2012",
+    "championship_type": "NO"
+  },
+  {
+    "id": "121",
+    "competition_id": "NorwegianChampionship2014",
+    "championship_type": "NO"
+  },
+  {
+    "id": "122",
+    "competition_id": "NorwegianChampionship2015",
+    "championship_type": "NO"
+  },
+  {
+    "id": "123",
+    "competition_id": "NorwegianChampionship2016",
+    "championship_type": "NO"
+  },
+  {
+    "id": "124",
+    "competition_id": "NorwegianChampionship2017",
+    "championship_type": "NO"
+  },
+  {
+    "id": "297",
+    "competition_id": "NorwegianChampionship2018",
+    "championship_type": "NO"
+  },
+  {
+    "id": "410",
+    "competition_id": "NorwegianChampionship2019",
+    "championship_type": "NO"
+  },
+  {
+    "id": "227",
+    "competition_id": "NorwegianOpen2008",
+    "championship_type": "NO"
+  },
+  {
+    "id": "228",
+    "competition_id": "NorwegianOpen2009",
+    "championship_type": "NO"
+  },
+  {
+    "id": "229",
+    "competition_id": "NorwegianOpen2010",
+    "championship_type": "NO"
+  },
+  {
+    "id": "230",
+    "competition_id": "NorwegianOpen2011",
+    "championship_type": "NO"
+  },
+  {
+    "id": "125",
+    "competition_id": "Paraguay2016",
+    "championship_type": "PY"
+  },
+  {
+    "id": "347",
+    "competition_id": "Paraguay2017",
+    "championship_type": "PY"
+  },
+  {
+    "id": "405",
+    "competition_id": "ParaguayNationals2018",
+    "championship_type": "PY"
+  },
+  {
+    "id": "481",
+    "competition_id": "ParaguayNationals2019",
+    "championship_type": "PY"
+  },
+  {
+    "id": "357",
+    "competition_id": "PeruNationals2018",
+    "championship_type": "PE"
+  },
+  {
+    "id": "450",
+    "competition_id": "PeruNationals2019",
+    "championship_type": "PE"
+  },
+  {
+    "id": "126",
+    "competition_id": "PhilippineChampionship2016",
+    "championship_type": "PH"
+  },
+  {
+    "id": "127",
+    "competition_id": "PhilippineChampionship2017",
+    "championship_type": "PH"
+  },
+  {
+    "id": "386",
+    "competition_id": "PhilippineChampionship2018",
+    "championship_type": "PH"
+  },
+  {
+    "id": "454",
+    "competition_id": "PhilippineChampionship2019",
+    "championship_type": "PH"
+  },
+  {
+    "id": "254",
+    "competition_id": "PhilippineOpen2011",
+    "championship_type": "PH"
+  },
+  {
+    "id": "255",
+    "competition_id": "PhilippineOpen2013",
+    "championship_type": "PH"
+  },
+  {
+    "id": "256",
+    "competition_id": "PhilippineOpen2014",
+    "championship_type": "PH"
+  },
+  {
+    "id": "257",
+    "competition_id": "PhilippineOpen2015",
+    "championship_type": "PH"
+  },
+  {
+    "id": "250",
+    "competition_id": "PhilippinesOpen2007",
+    "championship_type": "PH"
+  },
+  {
+    "id": "251",
+    "competition_id": "PhilippinesOpen2008",
+    "championship_type": "PH"
+  },
+  {
+    "id": "252",
+    "competition_id": "PhilippinesOpen2009",
+    "championship_type": "PH"
+  },
+  {
+    "id": "253",
+    "competition_id": "PhilippinesOpen2010",
+    "championship_type": "PH"
+  },
+  {
+    "id": "128",
+    "competition_id": "Poland2009",
+    "championship_type": "PL"
+  },
+  {
+    "id": "134",
+    "competition_id": "PolishChampionship2015",
+    "championship_type": "PL"
+  },
+  {
+    "id": "135",
+    "competition_id": "PolishChampionship2016",
+    "championship_type": "PL"
+  },
+  {
+    "id": "391",
+    "competition_id": "PolishChampionship2018",
+    "championship_type": "PL"
+  },
+  {
+    "id": "471",
+    "competition_id": "PolishChampionship2019",
+    "championship_type": "PL"
+  },
+  {
+    "id": "129",
+    "competition_id": "PolishNationals2010",
+    "championship_type": "PL"
+  },
+  {
+    "id": "130",
+    "competition_id": "PolishNationals2011",
+    "championship_type": "PL"
+  },
+  {
+    "id": "131",
+    "competition_id": "PolishNationals2012",
+    "championship_type": "PL"
+  },
+  {
+    "id": "132",
+    "competition_id": "PolishNationals2013",
+    "championship_type": "PL"
+  },
+  {
+    "id": "133",
+    "competition_id": "PolishNationals2014",
+    "championship_type": "PL"
+  },
+  {
+    "id": "277",
+    "competition_id": "PolishNationals2017",
+    "championship_type": "PL"
+  },
+  {
+    "id": "239",
+    "competition_id": "PortugalOpen2008",
+    "championship_type": "PT"
+  },
+  {
+    "id": "240",
+    "competition_id": "PortugalOpen2009",
+    "championship_type": "PT"
+  },
+  {
+    "id": "241",
+    "competition_id": "PortugalOpen2014",
+    "championship_type": "PT"
+  },
+  {
+    "id": "463",
+    "competition_id": "RepDominicanaNationals2019",
+    "championship_type": "DO"
+  },
+  {
+    "id": "430",
+    "competition_id": "RomanianCubingOpen2019",
+    "championship_type": "RO"
+  },
+  {
+    "id": "397",
+    "competition_id": "RomanianNationalDay2018",
+    "championship_type": "RO"
+  },
+  {
+    "id": "259",
+    "competition_id": "RomanianNationals2010",
+    "championship_type": "RO"
+  },
+  {
+    "id": "258",
+    "competition_id": "RomanianNationals2012",
+    "championship_type": "RO"
+  },
+  {
+    "id": "234",
+    "competition_id": "RussiaOpen2010",
+    "championship_type": "RU"
+  },
+  {
+    "id": "235",
+    "competition_id": "RussiaOpen2011",
+    "championship_type": "RU"
+  },
+  {
+    "id": "312",
+    "competition_id": "SanMarinoNationals2018",
+    "championship_type": "SM"
+  },
+  {
+    "id": "412",
+    "competition_id": "SanMarinoNationals2019",
+    "championship_type": "SM"
+  },
+  {
+    "id": "318",
+    "competition_id": "SerbianOpen2012",
+    "championship_type": "RS"
+  },
+  {
+    "id": "319",
+    "competition_id": "SerbianOpen2013",
+    "championship_type": "RS"
+  },
+  {
+    "id": "320",
+    "competition_id": "SerbianOpen2015",
+    "championship_type": "RS"
+  },
+  {
+    "id": "321",
+    "competition_id": "SerbianOpen2016",
+    "championship_type": "RS"
+  },
+  {
+    "id": "425",
+    "competition_id": "SerbianOpen2019",
+    "championship_type": "RS"
+  },
+  {
+    "id": "292",
+    "competition_id": "SingaporeChampionship2018",
+    "championship_type": "SG"
+  },
+  {
+    "id": "404",
+    "competition_id": "SingaporeChampionship2019",
+    "championship_type": "SG"
+  },
+  {
+    "id": "141",
+    "competition_id": "SingaporeOpen2014",
+    "championship_type": "SG"
+  },
+  {
+    "id": "142",
+    "competition_id": "SingaporeOpen2015",
+    "championship_type": "SG"
+  },
+  {
+    "id": "143",
+    "competition_id": "SingaporeOpen2016",
+    "championship_type": "SG"
+  },
+  {
+    "id": "144",
+    "competition_id": "SingaporeOpen2017",
+    "championship_type": "SG"
+  },
+  {
+    "id": "333",
+    "competition_id": "SlovakianOpen2014",
+    "championship_type": "SK"
+  },
+  {
+    "id": "334",
+    "competition_id": "SlovakianOpen2015",
+    "championship_type": "SK"
+  },
+  {
+    "id": "335",
+    "competition_id": "SlovakianOpen2016",
+    "championship_type": "SK"
+  },
+  {
+    "id": "336",
+    "competition_id": "SlovakianOpen2017",
+    "championship_type": "SK"
+  },
+  {
+    "id": "466",
+    "competition_id": "SlovakianOpen2019",
+    "championship_type": "SK"
+  },
+  {
+    "id": "342",
+    "competition_id": "SloveniaNationals2018",
+    "championship_type": "SI"
+  },
+  {
+    "id": "434",
+    "competition_id": "SlovenianNationals2019",
+    "championship_type": "SI"
+  },
+  {
+    "id": "356",
+    "competition_id": "SouthAmericanChampionship2018",
+    "championship_type": "_South America"
+  },
+  {
+    "id": "145",
+    "competition_id": "Spain2004",
+    "championship_type": "ES"
+  },
+  {
+    "id": "146",
+    "competition_id": "Spain2005",
+    "championship_type": "ES"
+  },
+  {
+    "id": "147",
+    "competition_id": "Spain2006",
+    "championship_type": "ES"
+  },
+  {
+    "id": "148",
+    "competition_id": "Spain2007",
+    "championship_type": "ES"
+  },
+  {
+    "id": "149",
+    "competition_id": "Spain2008",
+    "championship_type": "ES"
+  },
+  {
+    "id": "362",
+    "competition_id": "Spain2018",
+    "championship_type": "ES"
+  },
+  {
+    "id": "150",
+    "competition_id": "SpanishChampionship2009",
+    "championship_type": "ES"
+  },
+  {
+    "id": "151",
+    "competition_id": "SpanishChampionship2010",
+    "championship_type": "ES"
+  },
+  {
+    "id": "152",
+    "competition_id": "SpanishChampionship2011",
+    "championship_type": "ES"
+  },
+  {
+    "id": "153",
+    "competition_id": "SpanishChampionship2012",
+    "championship_type": "ES"
+  },
+  {
+    "id": "155",
+    "competition_id": "SpanishChampionship2014",
+    "championship_type": "ES"
+  },
+  {
+    "id": "156",
+    "competition_id": "SpanishChampionship2015",
+    "championship_type": "ES"
+  },
+  {
+    "id": "157",
+    "competition_id": "SpanishChampionship2016",
+    "championship_type": "ES"
+  },
+  {
+    "id": "158",
+    "competition_id": "SpanishChampionship2017",
+    "championship_type": "ES"
+  },
+  {
+    "id": "154",
+    "competition_id": "SpanishChampionships2013",
+    "championship_type": "ES"
+  },
+  {
+    "id": "165",
+    "competition_id": "SwedishChampionship2011",
+    "championship_type": "SE"
+  },
+  {
+    "id": "166",
+    "competition_id": "SwedishChampionship2012",
+    "championship_type": "SE"
+  },
+  {
+    "id": "167",
+    "competition_id": "SwedishChampionship2013",
+    "championship_type": "SE"
+  },
+  {
+    "id": "168",
+    "competition_id": "SwedishChampionship2014",
+    "championship_type": "SE"
+  },
+  {
+    "id": "169",
+    "competition_id": "SwedishChampionship2015",
+    "championship_type": "SE"
+  },
+  {
+    "id": "171",
+    "competition_id": "SwedishChampionship2017",
+    "championship_type": "SE"
+  },
+  {
+    "id": "351",
+    "competition_id": "SwedishChampionship2018",
+    "championship_type": "SE"
+  },
+  {
+    "id": "429",
+    "competition_id": "SwedishChampionship2019",
+    "championship_type": "SE"
+  },
+  {
+    "id": "159",
+    "competition_id": "SwedishOpen2005",
+    "championship_type": "SE"
+  },
+  {
+    "id": "160",
+    "competition_id": "SwedishOpen2006",
+    "championship_type": "SE"
+  },
+  {
+    "id": "161",
+    "competition_id": "SwedishOpen2007",
+    "championship_type": "SE"
+  },
+  {
+    "id": "162",
+    "competition_id": "SwedishOpen2008",
+    "championship_type": "SE"
+  },
+  {
+    "id": "163",
+    "competition_id": "SwedishOpen2009",
+    "championship_type": "SE"
+  },
+  {
+    "id": "164",
+    "competition_id": "SwedishOpen2010",
+    "championship_type": "SE"
+  },
+  {
+    "id": "172",
+    "competition_id": "SwissNationals2015",
+    "championship_type": "CH"
+  },
+  {
+    "id": "173",
+    "competition_id": "SwissNationals2016",
+    "championship_type": "CH"
+  },
+  {
+    "id": "174",
+    "competition_id": "SwissNationals2017",
+    "championship_type": "CH"
+  },
+  {
+    "id": "364",
+    "competition_id": "SwissNationals2018",
+    "championship_type": "CH"
+  },
+  {
+    "id": "428",
+    "competition_id": "SwissNationals2019",
+    "championship_type": "CH"
+  },
+  {
+    "id": "175",
+    "competition_id": "Taiwan2006",
+    "championship_type": "TW"
+  },
+  {
+    "id": "176",
+    "competition_id": "Taiwan2007",
+    "championship_type": "TW"
+  },
+  {
+    "id": "177",
+    "competition_id": "TaiwanChampionship2016",
+    "championship_type": "TW"
+  },
+  {
+    "id": "283",
+    "competition_id": "TaiwanChampionship2017",
+    "championship_type": "TW"
+  },
+  {
+    "id": "399",
+    "competition_id": "TaiwanChampionship2018",
+    "championship_type": "TW"
+  },
+  {
+    "id": "381",
+    "competition_id": "TajikistanOpen2018",
+    "championship_type": "TJ"
+  },
+  {
+    "id": "181",
+    "competition_id": "Thailand2012",
+    "championship_type": "TH"
+  },
+  {
+    "id": "182",
+    "competition_id": "ThailandChampionship2013",
+    "championship_type": "TH"
+  },
+  {
+    "id": "183",
+    "competition_id": "ThailandChampionship2014",
+    "championship_type": "TH"
+  },
+  {
+    "id": "184",
+    "competition_id": "ThailandChampionship2015",
+    "championship_type": "TH"
+  },
+  {
+    "id": "185",
+    "competition_id": "ThailandChampionship2016",
+    "championship_type": "TH"
+  },
+  {
+    "id": "186",
+    "competition_id": "ThailandChampionship2017",
+    "championship_type": "TH"
+  },
+  {
+    "id": "380",
+    "competition_id": "ThailandChampionship2018",
+    "championship_type": "TH"
+  },
+  {
+    "id": "427",
+    "competition_id": "ThailandChampionship2019",
+    "championship_type": "TH"
+  },
+  {
+    "id": "178",
+    "competition_id": "ThailandOpen2009",
+    "championship_type": "TH"
+  },
+  {
+    "id": "179",
+    "competition_id": "ThailandOpen2010",
+    "championship_type": "TH"
+  },
+  {
+    "id": "180",
+    "competition_id": "ThailandOpen2011",
+    "championship_type": "TH"
+  },
+  {
+    "id": "274",
+    "competition_id": "UchiFlorida2015",
+    "championship_type": "UY"
+  },
+  {
+    "id": "275",
+    "competition_id": "UchiMontevideo2016",
+    "championship_type": "UY"
+  },
+  {
+    "id": "388",
+    "competition_id": "UKC2018",
+    "championship_type": "GB"
+  },
+  {
+    "id": "194",
+    "competition_id": "UKChampionship2013",
+    "championship_type": "GB"
+  },
+  {
+    "id": "195",
+    "competition_id": "UKChampionship2014",
+    "championship_type": "GB"
+  },
+  {
+    "id": "196",
+    "competition_id": "UKChampionship2015",
+    "championship_type": "GB"
+  },
+  {
+    "id": "197",
+    "competition_id": "UKChampionship2016",
+    "championship_type": "GB"
+  },
+  {
+    "id": "198",
+    "competition_id": "UKChampionship2017",
+    "championship_type": "GB"
+  },
+  {
+    "id": "424",
+    "competition_id": "UKChampionship2019",
+    "championship_type": "GB"
+  },
+  {
+    "id": "187",
+    "competition_id": "UKOpen2006",
+    "championship_type": "GB"
+  },
+  {
+    "id": "188",
+    "competition_id": "UKOpen2007",
+    "championship_type": "GB"
+  },
+  {
+    "id": "189",
+    "competition_id": "UKOpen2008",
+    "championship_type": "GB"
+  },
+  {
+    "id": "190",
+    "competition_id": "UKOpen2009",
+    "championship_type": "GB"
+  },
+  {
+    "id": "191",
+    "competition_id": "UKOpen2010",
+    "championship_type": "GB"
+  },
+  {
+    "id": "192",
+    "competition_id": "UKOpen2011",
+    "championship_type": "GB"
+  },
+  {
+    "id": "193",
+    "competition_id": "UKOpen2012",
+    "championship_type": "GB"
+  },
+  {
+    "id": "421",
+    "competition_id": "UkrainianNationals2014",
+    "championship_type": "UA"
+  },
+  {
+    "id": "375",
+    "competition_id": "UkrainianNationals2016",
+    "championship_type": "UA"
+  },
+  {
+    "id": "376",
+    "competition_id": "UkrainianNationals2017",
+    "championship_type": "UA"
+  },
+  {
+    "id": "396",
+    "competition_id": "UkrainianNationals2018",
+    "championship_type": "UA"
+  },
+  {
+    "id": "467",
+    "competition_id": "UkrainianNationals2019",
+    "championship_type": "UA"
+  },
+  {
+    "id": "199",
+    "competition_id": "US2004",
+    "championship_type": "US"
+  },
+  {
+    "id": "200",
+    "competition_id": "US2006",
+    "championship_type": "US"
+  },
+  {
+    "id": "203",
+    "competition_id": "USNationals2009",
+    "championship_type": "US"
+  },
+  {
+    "id": "204",
+    "competition_id": "USNationals2010",
+    "championship_type": "US"
+  },
+  {
+    "id": "205",
+    "competition_id": "USNationals2011",
+    "championship_type": "US"
+  },
+  {
+    "id": "206",
+    "competition_id": "USNationals2012",
+    "championship_type": "US"
+  },
+  {
+    "id": "208",
+    "competition_id": "USNationals2014",
+    "championship_type": "US"
+  },
+  {
+    "id": "209",
+    "competition_id": "USNationals2015",
+    "championship_type": "US"
+  },
+  {
+    "id": "210",
+    "competition_id": "USNationals2016",
+    "championship_type": "US"
+  },
+  {
+    "id": "201",
+    "competition_id": "USOpen2007",
+    "championship_type": "US"
+  },
+  {
+    "id": "202",
+    "competition_id": "USOpen2008",
+    "championship_type": "US"
+  },
+  {
+    "id": "480",
+    "competition_id": "UzbekistanNationals2019",
+    "championship_type": "UZ"
+  },
+  {
+    "id": "278",
+    "competition_id": "UzbekistanOpen2017",
+    "championship_type": "UZ"
+  },
+  {
+    "id": "382",
+    "competition_id": "UzbekistanOpen2018",
+    "championship_type": "UZ"
+  },
+  {
+    "id": "422",
+    "competition_id": "VenezuelaNationals2015",
+    "championship_type": "VE"
+  },
+  {
+    "id": "423",
+    "competition_id": "VenezuelaNationals2016",
+    "championship_type": "VE"
+  },
+  {
+    "id": "1",
+    "competition_id": "WC1982",
+    "championship_type": "world"
+  },
+  {
+    "id": "2",
+    "competition_id": "WC2003",
+    "championship_type": "world"
+  },
+  {
+    "id": "3",
+    "competition_id": "WC2005",
+    "championship_type": "world"
+  },
+  {
+    "id": "233",
+    "competition_id": "WC2007",
+    "championship_type": "HU"
+  },
+  {
+    "id": "4",
+    "competition_id": "WC2007",
+    "championship_type": "world"
+  },
+  {
+    "id": "5",
+    "competition_id": "WC2009",
+    "championship_type": "world"
+  },
+  {
+    "id": "6",
+    "competition_id": "WC2011",
+    "championship_type": "world"
+  },
+  {
+    "id": "207",
+    "competition_id": "WC2013",
+    "championship_type": "US"
+  },
+  {
+    "id": "7",
+    "competition_id": "WC2013",
+    "championship_type": "world"
+  },
+  {
+    "id": "33",
+    "competition_id": "WC2015",
+    "championship_type": "BR"
+  },
+  {
+    "id": "8",
+    "competition_id": "WC2015",
+    "championship_type": "world"
+  },
+  {
+    "id": "9",
+    "competition_id": "WC2017",
+    "championship_type": "world"
+  },
+  {
+    "id": "408",
+    "competition_id": "WC2019",
+    "championship_type": "AU"
+  },
+  {
+    "id": "407",
+    "competition_id": "WC2019",
+    "championship_type": "world"
+  },
+  {
+    "id": ""
+  }
+]
