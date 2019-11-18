@@ -1,11 +1,14 @@
-import React, { useState } from 'react';
+import React from 'react';
+import { ChoroplethMap } from '../Choropleth';
 
 const Cube = ({ sideShowing }) => {
-  return(
+  return (
     <>
       <div className="scene">
         <div className={`cube ${sideShowing}`}>
-          <div className="cube-face cube-face-front">front</div>
+          <div className="cube-face cube-face-front">
+            <ChoroplethMap />
+          </div>
           <div className="cube-face cube-face-back">back</div>
           <div className="cube-face cube-face-right">right</div>
           <div className="cube-face cube-face-left">left</div>
@@ -14,7 +17,7 @@ const Cube = ({ sideShowing }) => {
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
 export default Cube;
